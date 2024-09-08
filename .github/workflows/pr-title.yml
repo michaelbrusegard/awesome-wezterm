@@ -1,0 +1,16 @@
+name: PR Title
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize]
+    paths: [README.md]
+
+jobs:
+  run:
+    name: Check the Pull Request Title
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Slashgear/action-check-pr-title@v4.3.0
+        with:
+          regexp: "^(Add|Update|Remove) `.+\\/.+`$"
+          helpMessage: "Example: 'Add `MLFlexer/resurrect.wezterm`'"
