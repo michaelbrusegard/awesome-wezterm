@@ -26,6 +26,10 @@
 
 - [xarvex/presentation.wez](https://github.com/xarvex/presentation.wez) - Rather simple presentation mode toggle.
 
+## Neovim
+
+- [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) - Interact with the WezTerm configuration directly from Neovim.
+
 ## Session
 
 - [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) - Save and restore the state of windows, tabs and panes.
