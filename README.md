@@ -33,7 +33,7 @@
 
 ## Tab bar
 
-- [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) - A configurable tab bar with batteries included
+- [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) - A configurable tab bar with batteries included.
 - [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
 - [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) - Configurable status for the retro tab bar.
 - [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) - Configurable tabs for the retro tab bar.
