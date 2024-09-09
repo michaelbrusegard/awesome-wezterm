@@ -12,6 +12,7 @@
 
 - [Keybinding](#keybinding)
 - [Media](#media)
+- [Neovim](#neovim)
 - [Session](#session)
 - [Tab bar](#tab-bar)
 - [Utility](#utility)
@@ -25,6 +26,10 @@
 ## Media
 
 - [xarvex/presentation.wez](https://github.com/xarvex/presentation.wez) - Rather simple presentation mode toggle.
+
+## Neovim
+
+- [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) - Interact with the WezTerm configuration directly from Neovim.
 
 ## Session
 
