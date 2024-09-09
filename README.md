@@ -12,6 +12,7 @@
 
 - [Keybinding](#keybinding)
 - [Media](#media)
+- [Neovim](#neovim)
 - [Session](#session)
 - [Tab bar](#tab-bar)
 - [Utility](#utility)
