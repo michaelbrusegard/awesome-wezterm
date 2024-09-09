@@ -31,6 +31,7 @@
 
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 - [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) - Interact with the WezTerm configuration directly from Neovim.
+- [justinsgithub/wezterm-types](https://github.com/justinsgithub/wezterm-types) - WezTerm types that can be added as a completion source.
 
 ## Session
 
