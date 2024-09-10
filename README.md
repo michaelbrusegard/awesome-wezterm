@@ -8,6 +8,9 @@
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
+To enhance your WezTerm configuration experience:
+- [justinsgithub/wezterm-types](https://github.com/justinsgithub/wezterm-types) - WezTerm types that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API.
+
 ## Contents
 
 - [Keybinding](#keybinding)
