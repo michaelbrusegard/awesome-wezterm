@@ -8,6 +8,9 @@
 
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
+To enhance your WezTerm configuration experience:
+- [justinsgithub/wezterm-types](https://github.com/justinsgithub/wezterm-types) - WezTerm types that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API.
+
 ## Contents
 
 - [Keybinding](#keybinding)
@@ -31,7 +34,6 @@
 
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - Provides an addon for seamless pane navigation between Neovim and the WezTerm MUX.
 - [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) - Interact with the WezTerm configuration directly from Neovim.
-- [justinsgithub/wezterm-types](https://github.com/justinsgithub/wezterm-types) - WezTerm types that can be added as a completion source.
 
 ## Session
 
