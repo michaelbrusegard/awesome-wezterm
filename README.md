@@ -9,6 +9,7 @@
 [WezTerm](https://wezfurlong.org/wezterm/) is a powerful cross-platform terminal emulator and multiplexer written by [@wez](https://github.com/wez) and implemented in [Rust](https://www.rust-lang.org).
 
 To enhance your WezTerm configuration experience:
+
 - [justinsgithub/wezterm-types](https://github.com/justinsgithub/wezterm-types) - WezTerm types that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API.
 
 ## Contents
@@ -45,6 +46,7 @@ To enhance your WezTerm configuration experience:
 
 - [adriankarlen/bar.wezterm](https://github.com/adriankarlen/bar.wezterm) - A configurable tab bar with batteries included.
 - [michaelbrusegard/tabline.wez](https://github.com/michaelbrusegard/tabline.wez) - A versatile and easy to use retro tab bar with the `lualine.nvim` configuration format.
+- [rootiest/battery.wez](https://github.com/rootiest/battery.wez) - A colorful and fancy battery component for the retro tab bar.
 - [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) - Configurable status for the retro tab bar.
 - [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) - Configurable tabs for the retro tab bar.
 
