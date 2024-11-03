@@ -54,3 +54,4 @@ To enhance your WezTerm configuration experience:
 ## Utility
 
 - [aureolebigben/wezterm-cmd-sender](https://github.com/aureolebigben/wezterm-cmd-sender) - Send commands to multiple panes.
+- [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
