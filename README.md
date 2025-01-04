@@ -19,6 +19,7 @@ To enhance your WezTerm configuration experience:
 - [Neovim](#neovim)
 - [Session](#session)
 - [Tab bar](#tab-bar)
+- [Themes](#themes)
 - [Utility](#utility)
 
 ## Keybinding
@@ -50,6 +51,10 @@ To enhance your WezTerm configuration experience:
 - [rootiest/battery.wez](https://github.com/rootiest/battery.wez) - A colorful and fancy battery component for the retro tab bar.
 - [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) - Configurable status for the retro tab bar.
 - [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) - Configurable tabs for the retro tab bar.
+
+## Themes
+
+- [neapsix/wezterm](https://github.com/neapsix/wezterm) - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
 
 ## Utility
 
