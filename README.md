@@ -62,3 +62,4 @@ To enhance your WezTerm configuration experience:
 - [ChrisGVE/dev.wezterm](https://github.com/ChrisGVE/dev.wezterm) - Location resolver for development and deployment of a plugin.
 - [ChrisGVE/listeners.wezterm](https://github.com/ChrisGVE/listeners.wezterm) - Enables enhanced event listener capabilities with persistent state management.
 - [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
+- [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
