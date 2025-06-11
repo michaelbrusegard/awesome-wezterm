@@ -14,6 +14,7 @@ To enhance your WezTerm configuration experience:
 
 ## Contents
 
+- [AI](#ai)
 - [Keybinding](#keybinding)
 - [Media](#media)
 - [Neovim](#neovim)
@@ -22,6 +23,10 @@ To enhance your WezTerm configuration experience:
 - [Tab bar](#tab-bar)
 - [Themes](#themes)
 - [Utility](#utility)
+
+## AI
+
+- [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) - Ask AI for CLI help with LM Studio or Google Gemini.
 
 ## Keybinding
 
