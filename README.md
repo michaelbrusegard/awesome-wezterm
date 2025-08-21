@@ -67,12 +67,11 @@ To enhance your WezTerm configuration experience:
 ## Themes
 
 - [neapsix/wezterm](https://github.com/neapsix/wezterm) - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
+- [ProfessorMOB/theme-manager.wezterm](https://github/com/ProfessorMOB/theme-manager.wezterm) - A theme manager between programs. 
 
 ## Utility
 
 - [aureolebigben/wezterm-cmd-sender](https://github.com/aureolebigben/wezterm-cmd-sender) - Send commands to multiple panes.
-- [ChrisGVE/dev.wezterm](https://github.com/ChrisGVE/dev.wezterm) - Location resolver for development and deployment of a plugin.
-- [ChrisGVE/lib.wezterm](https://github.com/ChrisGVE/lib.wezterm) - A library of common utility functions for plugin developers.
 - [ChrisGVE/listeners.wezterm](https://github.com/ChrisGVE/listeners.wezterm) - Enables enhanced event listener capabilities with persistent state management.
 - [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
 - [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
