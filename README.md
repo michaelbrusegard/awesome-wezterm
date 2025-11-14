@@ -27,6 +27,7 @@ To enhance your WezTerm configuration experience:
 ## AI
 
 - [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) - Ask AI for CLI help with LM Studio or Google Gemini.
+- [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) - Generate and select bash commands based on natural language prompts.
 
 ## Keybinding
 
@@ -56,6 +57,7 @@ To enhance your WezTerm configuration experience:
 - [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) - Save and restore the state of windows, tabs and panes.
 - [MLFlexer/smart_workspace_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) - Switch between workspaces with fuzzy finding and `zoxide`.
 - [vieitesss/workspacesionizer.wezterm](https://github.com/vieitesss/workspacesionizer.wezterm) - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
+- [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) - Save and restore sessions.
 
 ## Tab bar
 
@@ -78,3 +80,4 @@ To enhance your WezTerm configuration experience:
 - [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
 - [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
 - [quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
+- [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
