@@ -71,6 +71,7 @@ To enhance your WezTerm configuration experience:
 ## Themes
 
 - [neapsix/wezterm](https://github.com/neapsix/wezterm) - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
+- [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) - Cycle through built-in themes using keyboard shortcuts.
 
 ## Utility
 
@@ -82,4 +83,3 @@ To enhance your WezTerm configuration experience:
 - [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
 - [quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
 - [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
-- [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) - Cycle through built-in themes using keyboard shortcuts.
