@@ -28,6 +28,7 @@ To enhance your WezTerm configuration experience:
 
 - [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) - Ask AI for CLI help with LM Studio or Google Gemini.
 - [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) - Generate and select bash commands based on natural language prompts.
+- [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 
 ## Keybinding
 
