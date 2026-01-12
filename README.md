@@ -53,6 +53,7 @@ To enhance your WezTerm configuration experience:
 ## Session
 
 - [DavidRR-F/quick_domains.wezterm](https://github.com/DavidRR-F/quick_domains.wezterm) - Faster way to search and attach to (SSH) domains.
+- [isseii10/workspace-picker.wezterm](https://github.com/isseii10/workspace-picker.wezterm) - Workspace switcher with `zoxide` integration.
 - [JuanraCM/wsinit.wezterm](https://github.com/JuanraCM/wsinit.wezterm) - A simple and flexible way to manage and initialize workspace configurations.
 - [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) - Opening Git repositories as their own WezTerm workspaces using `fd`.
 - [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) - Save and restore the state of windows, tabs and panes.
