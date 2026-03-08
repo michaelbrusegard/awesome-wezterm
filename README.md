@@ -84,5 +84,5 @@ To enhance your WezTerm configuration experience:
 - [ChrisGVE/listeners.wezterm](https://github.com/ChrisGVE/listeners.wezterm) - Enables enhanced event listener capabilities with persistent state management.
 - [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
 - [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
-- [quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
+- [quantonganh/quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
 - [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
