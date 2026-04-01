@@ -76,6 +76,7 @@ To enhance your WezTerm configuration experience:
 ## Themes
 
 - [neapsix/wezterm](https://github.com/neapsix/wezterm) - Rosé Pine theme, all natural pine, faux fur and a bit of soho vibes.
+- [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 - [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) - Cycle through built-in themes using keyboard shortcuts.
 
 ## Utility
