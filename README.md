@@ -89,4 +89,5 @@ To enhance your WezTerm configuration experience:
 - [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
 - [quantonganh/quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
 - [sravioli/memo.wz](https://github.com/sravioli/memo.wz) - Memoization, caching, and persistent state management.
+- [sravioli/warp.wz](https://github.com/sravioli/warp.wz) - General-purpose utility library with string, table, list, path, and filesystem helpers.
 - [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
