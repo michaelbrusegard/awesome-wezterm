@@ -93,6 +93,7 @@ To enhance your WezTerm configuration experience:
 - [sravioli/lantern.wz](https://github.com/sravioli/lantern.wz) - Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.
 - [sravioli/log.wz](https://github.com/sravioli/log.wz) - Tagged logging library with pluggable sinks and severity thresholds.
 - [sravioli/memo.wz](https://github.com/sravioli/memo.wz) - Memoization, caching, and persistent state management.
+- [sravioli/ribbon.wz](https://github.com/sravioli/ribbon.wz) - Builds styled text segments for status bars, tab titles, and selector previews.
 - [sravioli/sigil.wz](https://github.com/sravioli/sigil.wz) - Icon and identity-color registry for processes, tools, and UI labels.
 - [sravioli/warp.wz](https://github.com/sravioli/warp.wz) - General-purpose utility library with string, table, list, path, and filesystem helpers.
 - [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
