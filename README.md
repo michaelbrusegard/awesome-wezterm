@@ -88,6 +88,7 @@ To enhance your WezTerm configuration experience:
 - [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
 - [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
 - [quantonganh/quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
+- [sravioli/lantern.wz](https://github.com/sravioli/lantern.wz) - Selector framework for colorschemes, fonts, GPU adapters, window appearance, and custom config presets.
 - [sravioli/log.wz](https://github.com/sravioli/log.wz) - Tagged logging library with pluggable sinks and severity thresholds.
 - [sravioli/memo.wz](https://github.com/sravioli/memo.wz) - Memoization, caching, and persistent state management.
 - [sravioli/warp.wz](https://github.com/sravioli/warp.wz) - General-purpose utility library with string, table, list, path, and filesystem helpers.
