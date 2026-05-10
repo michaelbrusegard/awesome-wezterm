@@ -30,6 +30,7 @@ To enhance your WezTerm configuration experience:
 - [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) - Generate and select bash commands based on natural language prompts.
 - [EdenGibson/wezterm-quota-limit](https://github.com/EdenGibson/wezterm-quota-limit) - Shows Claude API usage quota in the status bar with color-coded thresholds and automatic token refresh.
 - [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
+- [M-Marbouh/agent-quota.wezterm](https://github.com/M-Marbouh/agent-quota.wezterm) - Shows Claude and Codex quota usage in the status bar with reset countdowns, process-aware states, and shared caching.
 
 ## Keybinding
 
