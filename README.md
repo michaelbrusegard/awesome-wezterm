@@ -75,6 +75,7 @@ To enhance your WezTerm configuration experience:
 - [rootiest/battery.wez](https://github.com/rootiest/battery.wez) - A colorful and fancy battery component for the retro tab bar.
 - [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) - Configurable status for the retro tab bar.
 - [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) - Configurable tabs for the retro tab bar.
+- [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) - Turns your tab bar into a notification system with colored tab indicators.
 
 ## Themes
 
