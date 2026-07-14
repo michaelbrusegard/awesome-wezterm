@@ -62,7 +62,7 @@ To enhance your WezTerm configuration experience:
 - [isseii10/workspace-picker.wezterm](https://github.com/isseii10/workspace-picker.wezterm) - Workspace switcher with `zoxide` integration.
 - [JuanraCM/wsinit.wezterm](https://github.com/JuanraCM/wsinit.wezterm) - A simple and flexible way to manage and initialize workspace configurations.
 - [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) - Opening Git repositories as their own WezTerm workspaces using `fd`.
-- [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) - Save and restore the state of windows, tabs and panes.
+- [StephenGemin/resurrect.wezterm](https://github.com/StephenGemin/resurrect.wezterm) - Save and restore the state of workspaces, windows, tabs and panes.
 - [MLFlexer/smart_workspace_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) - Switch between workspaces with fuzzy finding and `zoxide`.
 - [vieitesss/workspacesionizer.wezterm](https://github.com/vieitesss/workspacesionizer.wezterm) - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
 - [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) - Save and restore sessions.
