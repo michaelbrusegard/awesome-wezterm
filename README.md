@@ -86,7 +86,7 @@ To enhance your WezTerm configuration experience:
 - [sravioli/kanagawa.wz](https://github.com/sravioli/kanagawa.wz) - Kanagawa.nvim color schemes with Wave, Dragon, and Lotus variants.
 - [koh-sh/wezterm-theme-rotator](https://github.com/koh-sh/wezterm-theme-rotator) - Cycle through built-in themes using keyboard shortcuts.
 - [Tomauskasz/electric-control-room.wez](https://github.com/Tomauskasz/electric-control-room.wez) - Animated electric control-room theme with layered APNG background effects.
-- [willytop8/Wezterm-Window-Tint](https://github.com/willytop8/Wezterm-Window-Tint) - Color the window frame, tab bar, and status badge by the active pane's Git root.
+- [william-ricchiuti/Wezterm-Window-Tint](https://github.com/william-ricchiuti/Wezterm-Window-Tint) - Color the window frame, tab bar, and status badge by the active pane's Git root.
 
 ## Utility
 
