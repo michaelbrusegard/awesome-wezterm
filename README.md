@@ -71,6 +71,7 @@ To enhance your WezTerm configuration experience:
 - [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) - Save and restore sessions.
 - [srackham/tabsets.wezterm](https://github.com/srackham/tabsets.wezterm) - Load, save, rename and delete named sets of tabs.
 - [ryanmsnyder/workspace-manager.wezterm](https://github.com/ryanmsnyder/workspace-manager.wezterm) - Navigate projects effortlessly with smart workspace switching and keyboard-driven navigation.
+- [sravioli/harbor.wz](https://github.com/sravioli/harbor.wz) - Workspace picker with session save and restore for tabs, windows, splits, and scrollback.
 
 ## Tab bar
 
