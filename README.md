@@ -80,6 +80,7 @@ To enhance your WezTerm configuration experience:
 - [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) - Configurable status for the retro tab bar.
 - [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) - Configurable tabs for the retro tab bar.
 - [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) - Turns your tab bar into a notification system with colored tab indicators.
+- [sravioli/mosaic.wz](https://github.com/sravioli/mosaic.wz) - Status bar engine that fits modules into the free tab bar columns, with eight presets.
 
 ## Themes
 
