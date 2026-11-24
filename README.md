@@ -44,6 +44,7 @@ To enhance your WezTerm configuration experience:
 - [annie444/sync-panes.wez](https://github.com/annie444/sync-panes.wez) - Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's `synchronize-panes`.
 - [KawaiiSelbst/nu_utf8_hack.wez](https://github.com/KawaiiSelbst/nu_utf8_hack.wez) - Rough hack for correct handling utf8 symbols with `SHIFT` key with `kitty-keyboard-protocol` for users of nushell.
 - [KawaiiSelbst/keys_bypass.wez](https://github.com/KawaiiSelbst/keys_bypass.wez) - Bypasses WezTerm shortcuts to send keys to the foreground process (e.g., Zellij or tmux). 
+- [Benjmhart/keybind-find](https://github.com/Benjmhart/keybind-find) - Command palette for the whole desktop: lists WezTerm's keys as `wezterm show-keys` reads your config (defaults, key tables, leader) next to the window manager's and the focused pane's, and presses the one you pick.
 
 ## Media
 
